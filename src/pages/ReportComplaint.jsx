@@ -174,39 +174,49 @@ const ReportComplaint = () => {
             value={FormData.reason}
           >
             <FormControlLabel
-              value="Speeding/Racing"
+              value="Civil and Political Rights Violations:"
               control={<Radio />}
-              label="Speeding/Racing"
+              label="Civil and Political Rights Violations:"
             />
             <FormControlLabel
-              value="Overloading of Passengers"
+              value="Economic, Social, and Cultural Rights Violations:"
               control={<Radio />}
-              label="Overloading of Passengers"
+              label="Economic, Social, and Cultural Rights Violations:"
             />
             <FormControlLabel
-              value="Driving without seat belt/Helmet"
+              value="Genocide and Crimes Against Humanity:"
               control={<Radio />}
-              label="Driving without seat belt/Helmet"
+              label="Genocide and Crimes Against Humanity:"
             />
             <FormControlLabel
-              value="Illegal Overtaking"
+              value="Health and Access to Healthcare:"
               control={<Radio />}
-              label="Illegal Overtaking"
+              label="Health and Access to Healthcare:"
             />
             <FormControlLabel
-              value="Potholes in Roads"
+              value="Environmental Rights Violations:"
               control={<Radio />}
-              label="Potholes in Roads"
+              label="Environmental Rights Violations:"
             />
             <FormControlLabel
-              value="Pavement Defects"
+              value="Freedom of Religion and Belief Violations:"
               control={<Radio />}
-              label="Pavement Defects"
+              label="Freedom of Religion and Belief Violations:"
             />
             <FormControlLabel
-              value="Others"
+              value="Digital Rights Violations:"
               control={<Radio />}
-              label="Others"
+              label="Digital Rights Violations:"
+            />
+            <FormControlLabel
+              value="Children's Rights Violations:"
+              control={<Radio />}
+              label="Children's Rights Violations:"
+            />
+            <FormControlLabel
+              value="Others:"
+              control={<Radio />}
+              label="Others:"
             />
           </RadioGroup>
           <p className="my-2">More Information</p>

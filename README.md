@@ -38,12 +38,12 @@ and collaboration.
 
 - Clone the repository
 ```shell
-$ git clone https://github.com/vivekkj123/mobileEASE.git
+$ git clone https://github.com/GANESHALIAS/ethical
 ```
 - Install all dependencies
 
 ```shell
-$ cd mobileEASE
+$ cd ethical
 $ npm i
 ```
 - Create a firebase project and create a .env file at your local directory containing configuration of that project.

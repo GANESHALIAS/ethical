@@ -19,7 +19,7 @@ const manifestForPlugin = {
   ],
   manifest: {
     name: "ethicalShield",
-    short_name: "MobilEASE",
+    short_name: "ehicalShield",
     description: "Application to report traffic issues around you",
     icons: [
       {

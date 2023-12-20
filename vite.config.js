@@ -20,7 +20,7 @@ const manifestForPlugin = {
   manifest: {
     name: "ethicalShield",
     short_name: "ehicalShield",
-    description: "Application to report traffic issues around you",
+    description: "Application to report Human rights violations",
     icons: [
       {
         src: "/logo.png",

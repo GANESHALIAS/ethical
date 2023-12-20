@@ -18,7 +18,7 @@ const manifestForPlugin = {
     "maskable_icon.png",
   ],
   manifest: {
-    name: "MobilEASE - Mobile Efficient Assistance for Traffic",
+    name: "ethicalShield",
     short_name: "MobilEASE",
     description: "Application to report traffic issues around you",
     icons: [

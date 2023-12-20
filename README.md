@@ -1,4 +1,4 @@
-# MobilEASE
+# EthicalShield
 
 <img src="./public/logo.png" alt="logo" width=200 height=200>
 

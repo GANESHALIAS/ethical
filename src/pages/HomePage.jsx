@@ -27,7 +27,7 @@ const HomePage = () => {
         />
         <div>
           <h3 className="slogan mt-[25%] lg:mt-0 leading-normal font-bold text-center text-base lg:text-[2rem]">
-            REPORT HUMAR RIGHTS VIOLATIONS AND PROBLEMS ON GO !!!
+            REPORT HUMAN RIGHTS VIOLATIONS AND PROBLEMS ON GO !!!
           </h3>
           <RegisterAccount />
         </div>
